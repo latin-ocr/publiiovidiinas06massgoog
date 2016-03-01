@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./publiiovidiinas06massgoog/publiiovidiinas06massgoog_0011.png"; bbox 0 0 2790 4696; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 176 1751 1231 1985">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 176 1751 1231 1985">
+     <span class='ocr_line' id='line_1_1' title="bbox 176 1751 1231 1853; baseline 0 -17"><span class='ocrx_word' id='word_1_1' title='bbox 176 1773 474 1837; x_wconf 68' lang='lat' dir='ltr'>Excumzssffl</span> <span class='ocrx_word' id='word_1_2' title='bbox 503 1772 679 1837; x_wconf 59' lang='lat' dir='ltr'>Aua-1³11.</span> <span class='ocrx_word' id='word_1_3' title='bbox 700 1751 1054 1853; x_wconf 45' lang='lat' dir='ltr'>nomm-nm&amp;</span> <span class='ocrx_word' id='word_1_4' title='bbox 1079 1776 1231 1851; x_wconf 73' lang='lat' dir='ltr'>PATER,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 237 1907 1085 1985; baseline 0.004 -21"><span class='ocrx_word' id='word_1_5' title='bbox 237 1920 243 1931; x_wconf 94' lang='lat'>·</span> <span class='ocrx_word' id='word_1_6' title='bbox 319 1922 364 1965; x_wconf 70' lang='lat' dir='ltr'><strong>m</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 384 1920 555 1967; x_wconf 71' lang='lat' dir='ltr'>nomn</span> <span class='ocrx_word' id='word_1_8' title='bbox 578 1907 920 1985; x_wconf 67' lang='lat' dir='ltr'><strong>noum-num,</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 940 1922 1085 1969; x_wconf 71' lang='lat' dir='ltr'>rmus.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1400 4696">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1400 4696">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1400 4696; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1400 4696; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
